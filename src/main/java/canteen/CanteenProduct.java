@@ -23,6 +23,7 @@ public abstract class CanteenProduct {
         this(name, null);
     }
 
+    // Getter
     public String getName() {
         return name;
     }
